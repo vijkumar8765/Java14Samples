@@ -1,8 +1,9 @@
 package com.jdk14;
 
-import java.util.Arrays;
-import java.util.List;
-
 public class NullPointerExceptionTest {
+
+    public static void main(String[] args) {
+        System.out.println("main");
+    }
 
 }
