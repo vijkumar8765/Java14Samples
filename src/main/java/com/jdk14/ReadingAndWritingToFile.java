@@ -1,7 +1,6 @@
 package com.jdk14;
 
 import java.io.*;
-import java.nio.file.Paths;
 
 public record ReadingAndWritingToFile(String name, int age) implements Serializable {
 
